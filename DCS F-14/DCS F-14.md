@@ -10,6 +10,8 @@ Just a basic compilation of information for the DCS F-14B. Primarily made for th
 
 [Heatblur DCS F-14 Tomcat Manual](<http://www.heatblur.se/F-14Manual/> )
 
+[Chuck's F-14 Guide](https://www.mudspike.com/chucks-guides-dcs-f-14b-tomcat/)
+
 ##### Urgent To-Dos
 
 - Ground Landing Guide
